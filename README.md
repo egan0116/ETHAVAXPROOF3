@@ -12,3 +12,5 @@ This program is an example of how to use solidity to mint and burn tokens when i
 - Any user can transfer tokens
 - Any user can burn tokens
 
+
+
